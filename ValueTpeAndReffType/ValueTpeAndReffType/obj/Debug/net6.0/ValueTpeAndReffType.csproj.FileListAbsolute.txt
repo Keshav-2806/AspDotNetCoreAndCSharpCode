@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\bin\Debug\net6.0\ValueTpeAndReffType.exe
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\bin\Debug\net6.0\ValueTpeAndReffType.deps.json
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\bin\Debug\net6.0\ValueTpeAndReffType.runtimeconfig.json
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\bin\Debug\net6.0\ValueTpeAndReffType.dll
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\bin\Debug\net6.0\ValueTpeAndReffType.pdb
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ValueTpeAndReffType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ValueTpeAndReffType.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ValueTpeAndReffType.AssemblyInfo.cs
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ValueTpeAndReffType.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ValueTpeAndReffType.dll
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\refint\ValueTpeAndReffType.dll
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ValueTpeAndReffType.pdb
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ValueTpeAndReffType.genruntimeconfig.cache
+C:\Users\2085307\source\repos\ValueTpeAndReffType\ValueTpeAndReffType\obj\Debug\net6.0\ref\ValueTpeAndReffType.dll

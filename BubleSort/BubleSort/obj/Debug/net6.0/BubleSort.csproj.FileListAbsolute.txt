@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\BubleSort\BubleSort\bin\Debug\net6.0\BubleSort.exe
+C:\Users\2085307\source\repos\BubleSort\BubleSort\bin\Debug\net6.0\BubleSort.deps.json
+C:\Users\2085307\source\repos\BubleSort\BubleSort\bin\Debug\net6.0\BubleSort.runtimeconfig.json
+C:\Users\2085307\source\repos\BubleSort\BubleSort\bin\Debug\net6.0\BubleSort.dll
+C:\Users\2085307\source\repos\BubleSort\BubleSort\bin\Debug\net6.0\BubleSort.pdb
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\BubleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\BubleSort.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\BubleSort.AssemblyInfo.cs
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\BubleSort.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\BubleSort.dll
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\refint\BubleSort.dll
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\BubleSort.pdb
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\BubleSort.genruntimeconfig.cache
+C:\Users\2085307\source\repos\BubleSort\BubleSort\obj\Debug\net6.0\ref\BubleSort.dll

@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\bin\Debug\net6.0\ReverseArrayUserInput.exe
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\bin\Debug\net6.0\ReverseArrayUserInput.deps.json
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\bin\Debug\net6.0\ReverseArrayUserInput.runtimeconfig.json
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\bin\Debug\net6.0\ReverseArrayUserInput.dll
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\bin\Debug\net6.0\ReverseArrayUserInput.pdb
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ReverseArrayUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ReverseArrayUserInput.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ReverseArrayUserInput.AssemblyInfo.cs
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ReverseArrayUserInput.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ReverseArrayUserInput.dll
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\refint\ReverseArrayUserInput.dll
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ReverseArrayUserInput.pdb
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ReverseArrayUserInput.genruntimeconfig.cache
+C:\Users\2085307\source\repos\ReverseArrayUserInput\ReverseArrayUserInput\obj\Debug\net6.0\ref\ReverseArrayUserInput.dll

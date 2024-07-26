@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BpPHJN779hXn4UnqPHTozuUyTiEHbxacXsNO3Cz3GYs=",
+  "Source": "ExampleOfDependencyInjection",
+  "BasePath": "_content/ExampleOfDependencyInjection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

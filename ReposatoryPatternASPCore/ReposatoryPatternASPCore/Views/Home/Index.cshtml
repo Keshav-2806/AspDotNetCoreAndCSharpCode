@@ -1,0 +1,29 @@
+﻿@using RepositoryPatternASPCore.Models;
+@{
+    ViewData["Title"] = "Home Page";
+    var students = ViewData["myStudent"] as List<StudentModel>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<@* table>
+    <tr>
+        <th>Std Id     </th>
+        <th>Std Name   </th>
+        <th>Std Gender </th>
+        <th>Std Standard </th>
+    </tr>
+    @foreach (var std in students)
+    {
+        <tr>
+            <td>@std.StdId</td>
+            <td>@std.StdName</td>
+            <td>@std.StdGender</td>
+            <td>@std.StdStandard</td>
+        </tr>
+        
+    }
+</table> *@

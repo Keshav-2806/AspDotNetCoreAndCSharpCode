@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CheckBoxesASPCore6.props" />
+</Project>

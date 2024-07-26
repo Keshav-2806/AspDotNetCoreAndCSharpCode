@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.exe
+C:\Users\2085307\source\repos\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.deps.json
+C:\Users\2085307\source\repos\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.runtimeconfig.json
+C:\Users\2085307\source\repos\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.dll
+C:\Users\2085307\source\repos\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.pdb
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfo.cs
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.dll
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\refint\StringReverse.dll
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.pdb
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.genruntimeconfig.cache
+C:\Users\2085307\source\repos\StringReverse\StringReverse\obj\Debug\net6.0\ref\StringReverse.dll

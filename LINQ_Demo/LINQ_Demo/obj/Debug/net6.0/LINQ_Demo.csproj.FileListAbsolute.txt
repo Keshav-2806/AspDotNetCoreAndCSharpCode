@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\bin\Debug\net6.0\LINQ_Demo.exe
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\bin\Debug\net6.0\LINQ_Demo.deps.json
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\bin\Debug\net6.0\LINQ_Demo.runtimeconfig.json
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\bin\Debug\net6.0\LINQ_Demo.dll
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\bin\Debug\net6.0\LINQ_Demo.pdb
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\LINQ_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\LINQ_Demo.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\LINQ_Demo.AssemblyInfo.cs
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\LINQ_Demo.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\LINQ_Demo.dll
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\refint\LINQ_Demo.dll
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\LINQ_Demo.pdb
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\LINQ_Demo.genruntimeconfig.cache
+C:\Users\2085307\source\repos\LINQ_Demo\LINQ_Demo\obj\Debug\net6.0\ref\LINQ_Demo.dll

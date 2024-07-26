@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net6.0\DependencyInjectionDemo.exe
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net6.0\DependencyInjectionDemo.deps.json
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net6.0\DependencyInjectionDemo.runtimeconfig.json
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net6.0\DependencyInjectionDemo.dll
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net6.0\DependencyInjectionDemo.pdb
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\DependencyInjectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\DependencyInjectionDemo.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\DependencyInjectionDemo.AssemblyInfo.cs
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\DependencyInjectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\DependencyInjectionDemo.dll
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\refint\DependencyInjectionDemo.dll
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\DependencyInjectionDemo.pdb
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\DependencyInjectionDemo.genruntimeconfig.cache
+C:\Users\2085307\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net6.0\ref\DependencyInjectionDemo.dll

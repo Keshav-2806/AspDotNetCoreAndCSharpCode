@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\primeNumber\primeNumber\bin\Debug\net6.0\primeNumber.exe
+C:\Users\2085307\source\repos\primeNumber\primeNumber\bin\Debug\net6.0\primeNumber.deps.json
+C:\Users\2085307\source\repos\primeNumber\primeNumber\bin\Debug\net6.0\primeNumber.runtimeconfig.json
+C:\Users\2085307\source\repos\primeNumber\primeNumber\bin\Debug\net6.0\primeNumber.dll
+C:\Users\2085307\source\repos\primeNumber\primeNumber\bin\Debug\net6.0\primeNumber.pdb
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfo.cs
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\primeNumber.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\primeNumber.dll
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\refint\primeNumber.dll
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\primeNumber.pdb
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\primeNumber.genruntimeconfig.cache
+C:\Users\2085307\source\repos\primeNumber\primeNumber\obj\Debug\net6.0\ref\primeNumber.dll

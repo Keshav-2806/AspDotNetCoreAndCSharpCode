@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\bin\Debug\net6.0\ArrayReverse.exe
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\bin\Debug\net6.0\ArrayReverse.deps.json
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\bin\Debug\net6.0\ArrayReverse.runtimeconfig.json
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\bin\Debug\net6.0\ArrayReverse.dll
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\bin\Debug\net6.0\ArrayReverse.pdb
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ArrayReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ArrayReverse.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ArrayReverse.AssemblyInfo.cs
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ArrayReverse.dll
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\refint\ArrayReverse.dll
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ArrayReverse.pdb
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ArrayReverse.genruntimeconfig.cache
+C:\Users\2085307\source\repos\ArrayReverse\ArrayReverse\obj\Debug\net6.0\ref\ArrayReverse.dll

@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\CSharpCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\CSharpCoding.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\CSharpCoding.AssemblyInfo.cs
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\CSharpCoding.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\C#Coding\C#Coding\bin\Debug\net6.0\CSharpCoding.exe
+C:\Users\2085307\source\repos\C#Coding\C#Coding\bin\Debug\net6.0\CSharpCoding.deps.json
+C:\Users\2085307\source\repos\C#Coding\C#Coding\bin\Debug\net6.0\CSharpCoding.runtimeconfig.json
+C:\Users\2085307\source\repos\C#Coding\C#Coding\bin\Debug\net6.0\CSharpCoding.dll
+C:\Users\2085307\source\repos\C#Coding\C#Coding\bin\Debug\net6.0\CSharpCoding.pdb
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\CSharpCoding.dll
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\refint\CSharpCoding.dll
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\CSharpCoding.pdb
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\CSharpCoding.genruntimeconfig.cache
+C:\Users\2085307\source\repos\C#Coding\C#Coding\obj\Debug\net6.0\ref\CSharpCoding.dll

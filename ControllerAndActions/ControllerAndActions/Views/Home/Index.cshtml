@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+   // Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>Index Page</h1>
+<p>This is my home page. </p>
+
+@ViewData["data1"]
+@ViewBag.data2
+@TempData["data3"]
+@{
+    if (TempData["data4"] != null)
+    {
+        foreach (var item in (List<string>)TempData["data4"])
+        {
+            <h3>@item</h3>
+        } 
+    }
+    else
+    {
+        <h2>No data found...</h2>
+    }
+
+}
+
+
+
+
+@* @ViewBag.data1
+<br/>
+@ViewBag.data2
+<br/>
+@ViewBag.data3
+<br/>
+@{
+    foreach (var item in ViewBag.data4)
+    {
+        <h2>@item</h2>
+    }
+}
+@{
+    foreach (var item in ViewBag.data5)
+    {
+        <h3>@item</h3>
+    }
+}
+
+@ViewBag.myName
+<br/>
+@ViewData["data6"]
+ *@
+@* 
+@ViewData["data1"]
+<br/>
+@ViewData["data2"]
+<br/>
+@ViewData["data3"]
+<br/>
+
+@{
+    foreach (var item in (string[])ViewData["data4"])
+    {
+        <h2>@item</h2>
+    }   
+}
+
+@{
+    foreach (var item in (List<string>)ViewData["data5"])
+    {
+        <h3>@item</h3>
+    }
+} *@
+
+@* 
+<h1>Current Date and Time is @DateTime.Now</h1>
+<h1>Current Year is @DateTime.Now.Year</h1>
+
+@{
+    var name = "Keshav";
+    var age = 26;
+}
+<h2>Name=@name</h2>
+<h2>Age=@age</h2>
+
+@{
+    for(int i = 0; i < 10; i++)
+    {
+        <h2>@i</h2>
+    }
+}
+@{
+    string[] names = { "Keshav", "Kumar", "Choudhary" };
+    foreach(var item in names)
+    {
+        <h2>@item</h2>
+    }
+}
+
+ *@

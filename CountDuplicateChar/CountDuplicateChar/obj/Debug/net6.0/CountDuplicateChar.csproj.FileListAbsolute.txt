@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\bin\Debug\net6.0\CountDuplicateChar.exe
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\bin\Debug\net6.0\CountDuplicateChar.deps.json
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\bin\Debug\net6.0\CountDuplicateChar.runtimeconfig.json
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\bin\Debug\net6.0\CountDuplicateChar.dll
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\bin\Debug\net6.0\CountDuplicateChar.pdb
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\CountDuplicateChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\CountDuplicateChar.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\CountDuplicateChar.AssemblyInfo.cs
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\CountDuplicateChar.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\CountDuplicateChar.dll
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\refint\CountDuplicateChar.dll
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\CountDuplicateChar.pdb
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\CountDuplicateChar.genruntimeconfig.cache
+C:\Users\2085307\source\repos\CountDuplicateChar\CountDuplicateChar\obj\Debug\net6.0\ref\CountDuplicateChar.dll

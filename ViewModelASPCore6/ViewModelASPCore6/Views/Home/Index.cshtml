@@ -1,0 +1,75 @@
+﻿@model ViewModelASPCore6.Models.SchoolViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    @if (Model.myStudents.Any())
+    {
+        <h2>STUDENTS DATA</h2>
+        <table class="table table-bordered table-dark table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>NAME</th>
+                    <th>GENDER</th>
+                    <th>CLASS</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.myStudents)
+                {
+                    <tr>
+                        <td>@item.Id </td>
+                        <td>@item.Name </td>
+                        <td>@item.Gender </td>
+                        <td>@item.Standard </td>
+                    </tr>
+                }
+
+        </tbody>
+        </table>
+    }
+    else
+    {
+       <h2>No Students Found..</h2> 
+    }
+</div>
+<br />
+
+<div class="container">
+     @if (Model.myTeachers.Any())
+    {
+        <h2>TEACHERS DATA</h2>
+        <table class="table table-bordered table-dark table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>NAME</th>
+                    <th>QUALIFICATION</th>
+                    <th>SALARY</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.myTeachers)
+                {
+                    <tr>
+                        <td>@item.Id </td>
+                        <td>@item.Name </td>
+                        <td>@item.Qualification </td>
+                        <td>@item.Salary </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <h2>No Teachers Found</h2>
+    }
+</div>

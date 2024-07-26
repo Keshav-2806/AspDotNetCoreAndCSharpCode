@@ -1,0 +1,27 @@
+﻿@* @model Employee *@@*@model StronglyTypedViewASPCore.Models.Employee*@
+@model List<Employee>
+@*@model IEnumerable<StronglyTypedViewASPCore.Models.Employee> *@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    foreach (var item in Model)//all the property all save in Model so we use Model 
+    {
+        <h2>@item.EmpId</h2>
+        <h2>@item.EmpName</h2>
+        <h2>@item.Designation</h2>
+        <h2>@item.Salary</h2>
+        <p>---------------------</p>
+    }
+}
+
+<@* h2>@Model.EmpId</h2>
+<h2>@Model.EmpName</h2>
+<h2>@Model.Designation</h2>
+<h2>@Model.Salary</h2> *@

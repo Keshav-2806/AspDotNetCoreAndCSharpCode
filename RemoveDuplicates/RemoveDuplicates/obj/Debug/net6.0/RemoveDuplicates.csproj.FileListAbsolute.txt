@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.exe
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.deps.json
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.runtimeconfig.json
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.dll
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.pdb
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfo.cs
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.dll
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\refint\RemoveDuplicates.dll
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.pdb
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.genruntimeconfig.cache
+C:\Users\2085307\source\repos\RemoveDuplicates\RemoveDuplicates\obj\Debug\net6.0\ref\RemoveDuplicates.dll

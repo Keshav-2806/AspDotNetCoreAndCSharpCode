@@ -1,0 +1,15 @@
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\bin\Debug\net5.0\PartialClassDemo.exe
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\bin\Debug\net5.0\PartialClassDemo.deps.json
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\bin\Debug\net5.0\PartialClassDemo.runtimeconfig.json
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\bin\Debug\net5.0\PartialClassDemo.runtimeconfig.dev.json
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\bin\Debug\net5.0\PartialClassDemo.dll
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\bin\Debug\net5.0\PartialClassDemo.pdb
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\PartialClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\PartialClassDemo.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\PartialClassDemo.AssemblyInfo.cs
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\PartialClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\PartialClassDemo.dll
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\refint\PartialClassDemo.dll
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\PartialClassDemo.pdb
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\PartialClassDemo.genruntimeconfig.cache
+C:\Users\2085307\source\repos\PartialClassDemo\PartialClassDemo\obj\Debug\net5.0\ref\PartialClassDemo.dll

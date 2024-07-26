@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.exe
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.deps.json
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.runtimeconfig.json
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.dll
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.pdb
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.AssemblyInfo.cs
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.dll
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\refint\AsyncAwaitExample.dll
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.pdb
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.genruntimeconfig.cache
+C:\Users\2085307\source\repos\AsyncAwaitExample\AsyncAwaitExample\obj\Debug\net7.0\ref\AsyncAwaitExample.dll

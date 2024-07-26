@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DropDownASPCore6.props" />
+</Project>

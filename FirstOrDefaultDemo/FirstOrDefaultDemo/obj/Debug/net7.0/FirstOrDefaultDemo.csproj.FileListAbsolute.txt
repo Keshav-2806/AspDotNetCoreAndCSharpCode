@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\bin\Debug\net7.0\FirstOrDefaultDemo.exe
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\bin\Debug\net7.0\FirstOrDefaultDemo.deps.json
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\bin\Debug\net7.0\FirstOrDefaultDemo.runtimeconfig.json
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\bin\Debug\net7.0\FirstOrDefaultDemo.dll
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\bin\Debug\net7.0\FirstOrDefaultDemo.pdb
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\FirstOrDefaultDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\FirstOrDefaultDemo.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\FirstOrDefaultDemo.AssemblyInfo.cs
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\FirstOrDefaultDemo.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\FirstOrDefaultDemo.dll
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\refint\FirstOrDefaultDemo.dll
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\FirstOrDefaultDemo.pdb
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\FirstOrDefaultDemo.genruntimeconfig.cache
+C:\Users\2085307\source\repos\FirstOrDefaultDemo\FirstOrDefaultDemo\obj\Debug\net7.0\ref\FirstOrDefaultDemo.dll

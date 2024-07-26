@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\bin\Debug\net6.0\SerializationDemo.exe
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\bin\Debug\net6.0\SerializationDemo.deps.json
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\bin\Debug\net6.0\SerializationDemo.runtimeconfig.json
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\bin\Debug\net6.0\SerializationDemo.dll
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\bin\Debug\net6.0\SerializationDemo.pdb
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\SerializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\SerializationDemo.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\SerializationDemo.AssemblyInfo.cs
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\SerializationDemo.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\SerializationDemo.dll
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\refint\SerializationDemo.dll
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\SerializationDemo.pdb
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\SerializationDemo.genruntimeconfig.cache
+C:\Users\2085307\source\repos\SerializationDemo\SerializationDemo\obj\Debug\net6.0\ref\SerializationDemo.dll

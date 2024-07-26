@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\bin\Debug\net6.0\ArrayWithObjectModifire.exe
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\bin\Debug\net6.0\ArrayWithObjectModifire.deps.json
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\bin\Debug\net6.0\ArrayWithObjectModifire.runtimeconfig.json
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\bin\Debug\net6.0\ArrayWithObjectModifire.dll
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\bin\Debug\net6.0\ArrayWithObjectModifire.pdb
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ArrayWithObjectModifire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ArrayWithObjectModifire.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ArrayWithObjectModifire.AssemblyInfo.cs
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ArrayWithObjectModifire.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ArrayWithObjectModifire.dll
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\refint\ArrayWithObjectModifire.dll
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ArrayWithObjectModifire.pdb
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ArrayWithObjectModifire.genruntimeconfig.cache
+C:\Users\2085307\source\repos\ArrayWithObjectModifire\ArrayWithObjectModifire\obj\Debug\net6.0\ref\ArrayWithObjectModifire.dll

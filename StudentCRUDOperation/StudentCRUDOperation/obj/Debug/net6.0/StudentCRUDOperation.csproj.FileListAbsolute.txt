@@ -1,0 +1,7 @@
+C:\Users\2085307\source\repos\StudentCRUDOperation\StudentCRUDOperation\obj\Debug\net6.0\StudentCRUDOperation.csproj.AssemblyReference.cache
+C:\Users\2085307\source\repos\StudentCRUDOperation\StudentCRUDOperation\obj\Debug\net6.0\StudentCRUDOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\StudentCRUDOperation\StudentCRUDOperation\obj\Debug\net6.0\StudentCRUDOperation.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\StudentCRUDOperation\StudentCRUDOperation\obj\Debug\net6.0\StudentCRUDOperation.AssemblyInfo.cs
+C:\Users\2085307\source\repos\StudentCRUDOperation\StudentCRUDOperation\obj\Debug\net6.0\StudentCRUDOperation.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\StudentCRUDOperation\StudentCRUDOperation\obj\Debug\net6.0\StudentCRUDOperation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085307\source\repos\StudentCRUDOperation\StudentCRUDOperation\obj\Debug\net6.0\StudentCRUDOperation.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "First_FirstOrDefault_Single_SingleOrDefault/1.0.0": {
+        "runtime": {
+          "First_FirstOrDefault_Single_SingleOrDefault.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First_FirstOrDefault_Single_SingleOrDefault/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

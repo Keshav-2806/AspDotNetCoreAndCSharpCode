@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\InterpolateToPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\InterpolateToPalindrome.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\InterpolateToPalindrome.AssemblyInfo.cs
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\InterpolateToPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\bin\Debug\net6.0\InterpolateToPalindrome.exe
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\bin\Debug\net6.0\InterpolateToPalindrome.deps.json
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\bin\Debug\net6.0\InterpolateToPalindrome.runtimeconfig.json
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\bin\Debug\net6.0\InterpolateToPalindrome.dll
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\bin\Debug\net6.0\InterpolateToPalindrome.pdb
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\InterpolateToPalindrome.dll
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\refint\InterpolateToPalindrome.dll
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\InterpolateToPalindrome.pdb
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\InterpolateToPalindrome.genruntimeconfig.cache
+C:\Users\2085307\source\repos\InterpolateToPalindrome\InterpolateToPalindrome\obj\Debug\net6.0\ref\InterpolateToPalindrome.dll

@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\bin\Debug\net6.0\ConstructorCopy.exe
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\bin\Debug\net6.0\ConstructorCopy.deps.json
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\bin\Debug\net6.0\ConstructorCopy.runtimeconfig.json
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\bin\Debug\net6.0\ConstructorCopy.dll
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\bin\Debug\net6.0\ConstructorCopy.pdb
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ConstructorCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ConstructorCopy.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ConstructorCopy.AssemblyInfo.cs
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ConstructorCopy.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ConstructorCopy.dll
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\refint\ConstructorCopy.dll
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ConstructorCopy.pdb
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ConstructorCopy.genruntimeconfig.cache
+C:\Users\2085307\source\repos\ConstructorCopy\ConstructorCopy\obj\Debug\net6.0\ref\ConstructorCopy.dll

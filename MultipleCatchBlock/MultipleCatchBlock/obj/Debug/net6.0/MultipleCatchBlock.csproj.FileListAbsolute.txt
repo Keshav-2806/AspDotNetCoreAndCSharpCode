@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\bin\Debug\net6.0\MultipleCatchBlock.exe
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\bin\Debug\net6.0\MultipleCatchBlock.deps.json
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\bin\Debug\net6.0\MultipleCatchBlock.runtimeconfig.json
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\bin\Debug\net6.0\MultipleCatchBlock.dll
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\bin\Debug\net6.0\MultipleCatchBlock.pdb
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\MultipleCatchBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\MultipleCatchBlock.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\MultipleCatchBlock.AssemblyInfo.cs
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\MultipleCatchBlock.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\MultipleCatchBlock.dll
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\refint\MultipleCatchBlock.dll
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\MultipleCatchBlock.pdb
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\MultipleCatchBlock.genruntimeconfig.cache
+C:\Users\2085307\source\repos\MultipleCatchBlock\MultipleCatchBlock\obj\Debug\net6.0\ref\MultipleCatchBlock.dll

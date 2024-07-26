@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.exe
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.deps.json
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.runtimeconfig.json
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.dll
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.pdb
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.AssemblyInfo.cs
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.dll
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\refint\FactoryDesign.dll
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.pdb
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.genruntimeconfig.cache
+C:\Users\2085307\source\repos\FactoryDesign\FactoryDesign\obj\Debug\net7.0\ref\FactoryDesign.dll

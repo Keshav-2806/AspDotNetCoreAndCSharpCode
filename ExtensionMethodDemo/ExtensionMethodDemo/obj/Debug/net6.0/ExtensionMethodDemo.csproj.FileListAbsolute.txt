@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.exe
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.deps.json
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.runtimeconfig.json
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.dll
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net6.0\ExtensionMethodDemo.pdb
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.AssemblyInfo.cs
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.dll
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\refint\ExtensionMethodDemo.dll
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.pdb
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ExtensionMethodDemo.genruntimeconfig.cache
+C:\Users\2085307\source\repos\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net6.0\ref\ExtensionMethodDemo.dll

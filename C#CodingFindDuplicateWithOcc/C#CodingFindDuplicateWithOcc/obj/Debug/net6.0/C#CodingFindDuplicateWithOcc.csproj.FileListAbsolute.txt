@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\bin\Debug\net6.0\C#CodingFindDuplicateWithOcc.exe
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\bin\Debug\net6.0\C#CodingFindDuplicateWithOcc.deps.json
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\bin\Debug\net6.0\C#CodingFindDuplicateWithOcc.runtimeconfig.json
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\bin\Debug\net6.0\C#CodingFindDuplicateWithOcc.dll
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\bin\Debug\net6.0\C#CodingFindDuplicateWithOcc.pdb
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\C#CodingFindDuplicateWithOcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\C#CodingFindDuplicateWithOcc.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\C#CodingFindDuplicateWithOcc.AssemblyInfo.cs
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\C#CodingFindDuplicateWithOcc.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\C#CodingFindDuplicateWithOcc.dll
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\refint\C#CodingFindDuplicateWithOcc.dll
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\C#CodingFindDuplicateWithOcc.pdb
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\C#CodingFindDuplicateWithOcc.genruntimeconfig.cache
+C:\Users\2085307\source\repos\C#CodingFindDuplicateWithOcc\C#CodingFindDuplicateWithOcc\obj\Debug\net6.0\ref\C#CodingFindDuplicateWithOcc.dll

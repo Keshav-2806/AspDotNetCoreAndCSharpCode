@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SessionASPCore6.props" />
+</Project>

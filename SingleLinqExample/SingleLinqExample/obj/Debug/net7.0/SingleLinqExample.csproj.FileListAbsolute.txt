@@ -1,0 +1,14 @@
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\bin\Debug\net7.0\SingleLinqExample.exe
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\bin\Debug\net7.0\SingleLinqExample.deps.json
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\bin\Debug\net7.0\SingleLinqExample.runtimeconfig.json
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\bin\Debug\net7.0\SingleLinqExample.dll
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\bin\Debug\net7.0\SingleLinqExample.pdb
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\SingleLinqExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\SingleLinqExample.AssemblyInfoInputs.cache
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\SingleLinqExample.AssemblyInfo.cs
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\SingleLinqExample.csproj.CoreCompileInputs.cache
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\SingleLinqExample.dll
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\refint\SingleLinqExample.dll
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\SingleLinqExample.pdb
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\SingleLinqExample.genruntimeconfig.cache
+C:\Users\2085307\source\repos\SingleLinqExample\SingleLinqExample\obj\Debug\net7.0\ref\SingleLinqExample.dll
